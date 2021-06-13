@@ -1,4 +1,7 @@
- <div dir="rtl">
+![WeatherApp](https://github.com/Yasmin-AlGhamdi/Project03/blob/main/CatApp.gif)
+
+
+<div dir="rtl">
   
 # مشروع الأسبوع الثالث | Project 03 
 ## الوصف
